@@ -23,4 +23,4 @@ I am currently a postdoctoral fellow at Center of Mathematical Sciences and Appl
 My mentor is Professor Shing-Tung Yau. I received my Ph.D. degree in Mathematics from National Taiwan University 
 under the supervisions of Professor [Chin-Lung Wang](http://www.math.ntu.edu.tw/~dragon/) and Professor [Hui-Wen Lin](http://www.math.ntu.edu.tw/%7Elinhw/).
 
-# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
