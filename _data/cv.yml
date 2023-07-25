@@ -51,14 +51,17 @@
       items:
       - name: Algebraic Geometry in String Theory seminar
         link: https://cmsa.fas.harvard.edu/event_category/algebraic-geometry-in-string-theory/
-        linkname: LINK
+        linkname: CLICK
       - name: Mathematical Physics seminar
         description: 2020/09 - 2021/06, co-organized with Yoosik Kim and Yang Zhou
       - name: Geometry and Physics seminar
         description: 2020/06 - 2020/08, co-organized with Pei Du and Yoosik Kim
     - category: Conferences
-      item:
+      items:
       - name: Representation Theory, Calabi–Yau Manifolds, and Mirror Symmetry 
-        description: co-organized with An Huang, Siu-Cheong Lau, and Andrew Linshaw
+        time: 2022/11/28 - 2022/12/1
+        link: https://cmsa.fas.harvard.edu/event/representation-theory-calabi-yau-manifolds-and-mirror-symmetry/
+        linkname: CLICK
+      - name: 
       
   
