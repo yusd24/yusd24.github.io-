@@ -301,7 +301,7 @@ scholar:
   sort_by: year, month
   order: descending, descending
   type_order: [unpublished, article, inbook, conference, incollections, inproceedings, proceedings, book, misc, techreport]
-  type_names: {unpublished: Pre-Prints / In Preparation}
+  type_names: {unpublished: Preprints / In preparation}
 
 badges: # Display different badges for your publications
   altmetric_badge: false # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
