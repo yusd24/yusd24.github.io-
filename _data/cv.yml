@@ -34,20 +34,16 @@
       description:
 
 - title: Activities Organized
-  type: time_table
-  contents:
-    - title: Algebraic Geometry in String Theory seminar
-      year: 2021/09 - 2022/06
-      description: co-organized with Yun Shi
-      location: CMSA, Harvard University
-    - title: Mathematical Physics seminar
-      year: 2020/09 - 2021/06
-      description: co-organized with Yoosik Kim and Yang Zhou
-    - title: Geometry and Physics seminar
-      year: 2020/06 - 2020/08
-      description: co-organized with Pei Du and Yoosik Kim
-    - title: Representation Theory, Calabi–Yau Manifolds, and Mirror Symmetry 
-      year: 2022/11/28 - 2022/12/01 
-      description: (co-organized with An Huang, Siu-Cheong Lau, and Andrew Linshaw)
+  type: list_groups
+  - category: Seminars
+    items:
+    - name: Algebraic Geometry in String Theory seminar
+      description: 2021/09 - 2022/06, co-organized with Yun Shi
+    - name: Mathematical Physics seminar
+      description: 2020/09 - 2021/06, co-organized with Yoosik Kim and Yang Zhou
+    - name: Geometry and Physics seminar
+      description: 2020/06 - 2020/08, co-organized with Pei Du and Yoosik Kim
+    - name: Representation Theory, Calabi–Yau Manifolds, and Mirror Symmetry 
+      description: co-organized with An Huang, Siu-Cheong Lau, and Andrew Linshaw
       
   
