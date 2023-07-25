@@ -5,6 +5,8 @@
       value: Tsung-Ju Lee
     - name: Date of Birth
       value: 28th August 1987
+    - name: Email Address
+      value: tjlee@cmsa.fas.harvard.edu
     - name: Languages
       value: Mandarin Chinese, English
 
@@ -32,7 +34,7 @@
       description:
 
 - title: Activities Organized
-  type: nested_list
+  type: group_list
   contents:
     - title: Seminars
       items: 
