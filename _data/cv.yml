@@ -25,6 +25,11 @@
 - title: Working Experience
   type: time_table
   contents:
+    - title: Assistant Professor
+      institution: Natioinal Cheng Kung University
+      year: 2023/9 - NOW
+      department: Departmant of Mathematics
+      location: Tainan, Taiwan
     - title: Postdoctoral Fellow
       institution: Center of Mathematical Sciences and Applications, Harvard University
       year: 2018/9 - 2023/8
@@ -39,7 +44,8 @@
     - category: Seminars
       items:
       - name: Algebraic Geometry in String Theory seminar
-        description: 2021/09 - 2022/06, co-organized with Yun Shi
+        link: https://cmsa.fas.harvard.edu/event_category/algebraic-geometry-in-string-theory/
+        linkname: LINK
       - name: Mathematical Physics seminar
         description: 2020/09 - 2021/06, co-organized with Yoosik Kim and Yang Zhou
       - name: Geometry and Physics seminar
