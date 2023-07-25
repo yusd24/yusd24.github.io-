@@ -8,6 +8,7 @@ nav_order: 2
 display_categories: [Published,Preprints]
 horizontal: false
 ---
+
 <!-- _pages/publications.md -->
 <div class="publications">
  {% bibliography --template bib --group_by type,year --group_order ascending,descending %}
