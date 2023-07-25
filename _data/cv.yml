@@ -31,11 +31,10 @@
       year: 2018/2 - 2018/8
       description:
 
-- title: Academic Interests
+- title: Activities Organized
   type: nested_list
   contents:
-    - title: Calabi--Yau Geometry
-    items: 
-      - je
-      - gm
+    - title: Test
+      items: 
+      - Description 1.
   
