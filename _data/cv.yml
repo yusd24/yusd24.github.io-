@@ -35,6 +35,7 @@
   type: nested_list
   contents:
     - title: Calabi--Yau Geometry
-    item: asd
-    item: asd
+    items: 
+      - je
+      - gm
   
