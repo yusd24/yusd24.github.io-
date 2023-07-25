@@ -123,7 +123,7 @@
           {%- capture entrytype -%}{%- endcapture -%}
         {%- endif -%}
         {%- if entry.volume -%}
-          {%- capture entryvolume -%}{{ " " }}{{entry.volume}}{%- endcapture -%}
+          {%- capture entryvolume -%}<b>{{entry.volume}}</b>{%- endcapture -%}
         {%- endif -%}
         {%- if entry.month -%}
           {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}
