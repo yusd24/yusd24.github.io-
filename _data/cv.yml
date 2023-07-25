@@ -15,10 +15,14 @@
   contents:
     - title: PhD in Mathematics
       institution: National Taiwan University
+      department: Department of Mathematics
+      location: Taipei, Taiwan
       year: 2016
       description: 
     - title: Bachelor in Mathematics
       institution: National Taiwan University
+      department: Department of Mathematics
+      location: Taipei, Taiwan
       year: 2008
       description:
 
@@ -31,7 +35,9 @@
       department: Departmant of Mathematics
       location: Tainan, Taiwan
     - title: Postdoctoral Fellow
-      institution: Center of Mathematical Sciences and Applications, Harvard University
+      institution: Harvard University
+      department: Center of Mathematical Sciences and Applications
+      location: Massachusetts, US
       year: 2018/9 - 2023/8
     - title: Postdoctoral Fellow
       institution: National Taiwan University
@@ -50,6 +56,8 @@
         description: 2020/09 - 2021/06, co-organized with Yoosik Kim and Yang Zhou
       - name: Geometry and Physics seminar
         description: 2020/06 - 2020/08, co-organized with Pei Du and Yoosik Kim
+    - category: Conferences
+      item:
       - name: Representation Theory, Calabi–Yau Manifolds, and Mirror Symmetry 
         description: co-organized with An Huang, Siu-Cheong Lau, and Andrew Linshaw
       
