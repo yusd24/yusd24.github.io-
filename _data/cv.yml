@@ -38,9 +38,10 @@
   contents:
     - title: Seminars
       type: time_table
-      items: 
-      - Description 1.
-      - 
+      contents:
+        - title: Test
+          year: 2023/1 - 2023/5
+          
     - title: Conferences
       item:
       - 
