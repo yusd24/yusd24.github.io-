@@ -45,10 +45,10 @@
       description:
 
 - title: Activities Organized
-  description: Here
   type: list_groups
   contents:
     - category: Seminars
+      description: Here
       items:
       - name: 2021/9 - 2022/6, Algebraic Geometry in String Theory seminar @ Harvard CMSA
         link: https://cmsa.fas.harvard.edu/event_category/algebraic-geometry-in-string-theory/
