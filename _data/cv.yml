@@ -36,9 +36,12 @@
   contents:
     - title: Seminars
       items: 
-      - Description 1.
-      year: 2021/6 - 2021/8
+      - year: 2021/6 - 2021/8 
+      Description 1.
+      - 
+      
     - title: Conferences
       item:
+      - 
       
   
