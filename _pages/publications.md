@@ -6,6 +6,7 @@ description: Publications in reversed chronological order.
 nav: true
 nav_order: 2
 display_categories: [Published,Preprints]
+horizontal: false
 ---
 <!-- pages/publications.md -->
 <div class="publications">
