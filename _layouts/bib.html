@@ -123,7 +123,7 @@
           {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
           {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}{%- endif -%}
           {% if entry.volume -%}{{ " " }}<b>{{ entry.volume }}</b>{%- endif -%}
-          {{ entrymonth }}{{ " (" }}{{entryyear}}{{ ")" }}
+          {{ " (" }}{{entryyear}}{{ ")" }}
           {% if entry.number -%}{{ ", No. " }}{{ entry.number }}{%- endif -%}
           {% if entry.pages -%}{{ ", " }}{{ entry.pages }}{%- endif -%}
           {%- endcapture -%}
