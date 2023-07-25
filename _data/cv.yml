@@ -50,6 +50,7 @@
     - category: Seminars
       items:
       - name: Algebraic Geometry in String Theory seminar
+        school: Harvard CMSA
         time: 10 HR
         link: https://cmsa.fas.harvard.edu/event_category/algebraic-geometry-in-string-theory/
         linkname: CLICK
