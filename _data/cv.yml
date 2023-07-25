@@ -25,21 +25,14 @@
   contents:
     - title: Postdoctoral Fellow
       institution: Center of Mathematical Sciences and Applications, Harvard University
-      year: Sep. 2018 - Aug. 2023
+      year: 2018/9 - 2023/8
     - title: Postdoctoral Fellow
       institution: National Taiwan University
-      year: Feb. 2018 - Aug. 2018
+      year: 2018/2 - 2018/8
       description:
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
+    - title: Calabi--Yau Geometry
+  
