@@ -5,6 +5,7 @@ title: Publications
 description: Publications in reversed chronological order.
 nav: true
 nav_order: 2
+display_categories: [Published,Preprints]
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
