@@ -34,7 +34,7 @@
       description:
 
 - title: Activities Organized
-  type: group_list
+  type: list_groups
   contents:
     - title: Seminars
       items: 
