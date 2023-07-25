@@ -34,16 +34,15 @@
       description:
 
 - title: Activities Organized
-  type: nested_list
+  type: time_table
   contents:
-    - title: Seminars
-      type: time_table
-      contents:
-        - title: Test
-          year: 2023/1 - 2023/5
-          
+    - title: Algebraic Geometry in String Theory seminar
+      year: 2021/09 - 2022/06
+      description: co-organized with Yun Shi
+    - title: Mathematical Physics seminar
+      year: 2021/09 - 2022/06
+      description: co-organized with Yoosik Kim and Yang Zhou
+
     - title: Conferences
-      item:
-      - 
       
   
