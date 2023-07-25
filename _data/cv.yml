@@ -46,18 +46,15 @@
 
 - title: Activities Organized
   type: list_groups
+  description: Here
   contents:
     - category: Seminars
       items:
-      - name: Algebraic Geometry in String Theory seminar
-        school: CMSA
-        time: 2021/9 - 2022/6
+      - name: 2021/9 - 2022/6, Algebraic Geometry in String Theory seminar @ Harvard CMSA
         link: https://cmsa.fas.harvard.edu/event_category/algebraic-geometry-in-string-theory/
         linkname: CLICK
-      - name: Mathematical Physics seminar
-        description: 2020/09 - 2021/06, co-organized with Yoosik Kim and Yang Zhou
-      - name: Geometry and Physics seminar
-        description: 2020/06 - 2020/08, co-organized with Pei Du and Yoosik Kim
+      - name: 2020/09 - 2021/06, Mathematical Physics seminar @ Harvard CMSA
+      - name: 2020/06 - 2020/08, Geometry and Physics seminar @ Harvard CMSA
     - category: Conferences
       items:
       - name: 2022/11/28 - 2022/12/1, Representation Theory, Calabi–Yau Manifolds, and Mirror Symmetry @ Harvard CMSA
