@@ -130,7 +130,6 @@
         {%- elsif entry.type == "preprint" -%}
           {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
           {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}{%- endif -%}
-          {{ entrymonth }}{{entryyear}}
           {%- endcapture -%}
         {%- elsif proceedings contains entry.type -%}
           {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
@@ -140,13 +139,7 @@
           {%- capture entrytype -%}{%- endcapture -%}
         {%- endif -%}
 
-        
-        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}{%- endif -%}
-        {% if entry.volume -%}{{ " " }}<b>{{ entry.volume }}</b>{%- endif -%}
-        {{ entrymonth }}{{ " (" }}{{entryyear}}{{ ")" }}
-        {% if entry.number -%}{{ ", No. " }}{{ entry.number }}{%- endif -%}
-        {% if entry.pages -%}{{ ", " }}{{ entry.pages }}{%- endif -%}
-        {%- endcapture -%}
+      
 
         <div class="periodical">
           {{ periodical | strip }}
