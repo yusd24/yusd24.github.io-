@@ -20,7 +20,7 @@
       year: 2008
       description:
 
-- title: Experience
+- title: Working Experience
   type: time_table
   contents:
     - title: Postdoctoral Fellow
@@ -34,7 +34,11 @@
 - title: Activities Organized
   type: nested_list
   contents:
-    - title: Test
+    - title: Seminars
       items: 
       - Description 1.
+      year: 2021/6 - 2021/8
+    - title: Conferences
+      item:
+      
   
