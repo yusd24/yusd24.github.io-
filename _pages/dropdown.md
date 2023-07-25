@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
+title: Papers
 nav: false
 nav_order: 6
 dropdown: true
 children: 
-    - title: publications
+    - title: Published
       permalink: /publications/
     - title: divider
-    - title: projects
+    - title: Preprints
       permalink: /projects/
 ---
