@@ -122,6 +122,9 @@
         {%- else -%}
           {%- capture entrytype -%}{%- endcapture -%}
         {%- endif -%}
+        {% if entry.volume -%}{{ " " }}<b>{{ entry.volume }}</b>{%- endif -%}
+        {% if entry.number -%}{{ ", " }}{{ entry.number }}{%- endif -%}
+        {% if entry.pages -%}{{ ", " }}{{ entry.pages }}{%- endif -%}
         {%- if entry.month -%}
           {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}
         {%- endif -%}
@@ -130,9 +133,7 @@
         {%- endif -%}
         {% assign entrytype_text = entrytype | strip_html | strip %}
         {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
-        {% if entry.volume -%}{{ ", " }}<b>{{ entry.volume }}</b>{%- endif -%}
-        {% if entry.number -%}{{ ", " }}{{ entry.number }}{%- endif -%}
-        {% if entry.pages -%}{{ ", " }}{{ entry.pages }}{%- endif -%}
+
         <div class="periodical">
           {{ periodical | strip }}
         </div>
