@@ -129,9 +129,9 @@
           {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
         {%- endif -%}
         {% assign entrytype_text = entrytype | strip_html | strip %}
-        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}
+        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}{%- endif -%}
         {% if entry.volume -%}{{ " " }}<b>{{ entry.volume }}</b>{%- endif -%}
-        {{ entrymonth }}{{ "("entryyear")" }}
+        {{ entrymonth }}{{ "(entryyear)" }}
         {% if entry.number -%}{{ ", Vol." }}{{ entry.number }}{%- endif -%}
         {% if entry.pages -%}{{ ", pp." }}{{ entry.pages }}{%- endif -%}
         {%- endcapture -%}
