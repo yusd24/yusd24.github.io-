@@ -49,20 +49,25 @@
   contents:
     - category: Seminars
       items:
-      - name: Algebraic Geometry in String Theory seminar (w. Yun Shi)
+      - name: Algebraic Geometry in String Theory seminar (coorganized w. Charles Doran and Mauricio Romo)
+        school: Harvard CMSA
+        time: 2022.9 - 2023.6
+        link: https://cmsa.fas.harvard.edu/event_category/algebraic-geometry-in-string-theory/
+        linkname: CLICK
+      - name: Algebraic Geometry in String Theory seminar (coorganized w. Yun Shi)
         school: Harvard CMSA
         time: 2021.9 - 2022.6
         link: https://cmsa.fas.harvard.edu/event_category/algebraic-geometry-in-string-theory/
         linkname: CLICK
-      - name: Mathematical Physics seminar
+      - name: Mathematical Physics seminar (coorganized w. Yoosik Kim and Yang Zhou)
         school: Harvard CMSA
         time: 2020.9 - 2021.6
-      - name: Geometry and Physics seminar
+      - name: Geometry and Physics seminar (coorganized w. Yoosik Kim and Du Pei)
         school: Harvard CMSA
         time: 2020.6 - 2020.8
     - category: Conferences
       items:
-      - name: Representation Theory, Calabi–Yau Manifolds, and Mirror Symmetry
+      - name: Representation Theory, Calabi–Yau Manifolds, and Mirror Symmetry (coorganizer w. An Huang, Siu-Cheong Lau, and Andrew Linshaw)
         school: Harvard CMSA
         time: 2022.11.28 - 2022.12.1
         link: https://cmsa.fas.harvard.edu/event/representation-theory-calabi-yau-manifolds-and-mirror-symmetry/
