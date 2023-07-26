@@ -9,9 +9,9 @@ profile:
   image: tj-lee-random.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>305 Math Building</p>
-    <p>No. 1, Dasyue Rd.</p>
-    <p>Tainan 70101, Taiwan</p>
+    <p>305 Math Building,</p>
+    <p>No. 1, Dasyue Rd.,</p>
+    <p>Tainan 70101, Taiwan.</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
