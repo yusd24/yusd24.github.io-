@@ -18,13 +18,13 @@
         </tr>
         {% for item in content.items %}
         <tr>
+          <td class="list-group-name"><i class="col-md-12">{{ item.name }}</i></td>
           <td></td>
-          <td class="list-group-name"><i class="col-md-12">{{item.name }}</i></td>
           {% if item.time %}
           <td class="list-group-time"><span class="small"><b>{{ item.time }}</b></span></td>
           {% endif %}
           {% if item.school %}
-          <td class="list-group-location">{{ item.location }}</td>
+          <td class="list-group-school">{{ item.school }}</td>
           {% endif %}
           {% if item.level %}
           <td class="list-group-level">{{ item.level }}</td>
