@@ -49,9 +49,9 @@
   contents:
     - category: Seminar Organizer
       items:
-      - name: <p><i>Algebraic Geometry in String Theory seminar</i><br> (coorganized w. Charles Doran and Mauricio Romo)&emsp;</p>
+      - name: <p><i>Algebraic Geometry in String Theory seminar</i><br> (coorganized w. Charles Doran and Mauricio Romo)</p>
         school: Harvard CMSA
-        time: 2022.9 - 2023.6
+        time: <p>&emsp;2022.9 - 2023.6</p>
         link: https://cmsa.fas.harvard.edu/event_category/algebraic-geometry-in-string-theory/
         linkname: CLICK
       - name: <p><i>Algebraic Geometry in String Theory seminar</i><br> (coorganized w. Yun Shi)</p>
@@ -84,7 +84,7 @@
           time: 2021.11
           link: https://www.simonsfoundation.org/event/simons-collaboration-on-homological-mirror-symmetry-annual-meeting-2021/
           linkname: CLICK
-        - name: <p>On the solutions to GKZ D-modules with fractional parameters <br> in <i>Calabi--Yau manifolds and mirror symmetry - Past, Present, and Future -</i>&emsp;</p>
+        - name: <p>On the solutions to GKZ D-modules with fractional parameters <br> in <i>Calabi--Yau manifolds and mirror symmetry - Past, Present, and Future -</i></p>
           school: Gakushuin University
           time: 2022.8
           link: https://sites.google.com/view/cyms2022/home?authuser=0
