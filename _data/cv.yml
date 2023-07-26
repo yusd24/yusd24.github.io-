@@ -49,25 +49,25 @@
   contents:
     - category: Seminar Organizer
       items:
-      - name: <p>Algebraic Geometry in String Theory seminar <br> coorganized w. Charles Doran and Mauricio Romo</p>
+      - name: <p>Algebraic Geometry in String Theory seminar <br> (coorganized w. Charles Doran and Mauricio Romo)</p>
         school: Harvard CMSA
         time: 2022.9 - 2023.6
         link: https://cmsa.fas.harvard.edu/event_category/algebraic-geometry-in-string-theory/
         linkname: CLICK
-      - name: Algebraic Geometry in String Theory seminar (coorganized w. Yun Shi)
+      - name: <p>Algebraic Geometry in String Theory seminar <br> (coorganized w. Yun Shi)</p>
         school: Harvard CMSA
         time: 2021.9 - 2022.6
         link: https://cmsa.fas.harvard.edu/event_category/algebraic-geometry-in-string-theory/
         linkname: CLICK
-      - name: Mathematical Physics seminar (coorganized w. Yoosik Kim and Yang Zhou)
+      - name: <p>Mathematical Physics seminar <br> (coorganized w. Yoosik Kim and Yang Zhou)</p>
         school: Harvard CMSA
         time: 2020.9 - 2021.6
-      - name: Geometry and Physics seminar (coorganized w. Yoosik Kim and Du Pei)
+      - name: <p>Geometry and Physics seminar <br> (coorganized w. Yoosik Kim and Du Pei)</p>
         school: Harvard CMSA
         time: 2020.6 - 2020.8
     - category: Conference Organizer
       items:
-      - name: Representation Theory, Calabi–Yau Manifolds, and Mirror Symmetry (coorganizer w. An Huang, Siu-Cheong Lau, and Andrew Linshaw)
+      - name: <p><i>Representation Theory, Calabi–Yau Manifolds, and Mirror Symmetry</i><br> (coorganizer w. An Huang, Siu-Cheong Lau, and Andrew Linshaw)</p>
         school: Harvard CMSA
         time: 2022.11.28 - 2022.12.1
         link: https://cmsa.fas.harvard.edu/event/representation-theory-calabi-yau-manifolds-and-mirror-symmetry/
