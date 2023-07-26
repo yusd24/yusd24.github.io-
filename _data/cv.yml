@@ -50,7 +50,7 @@
     - category: Seminars
       items:
       - name: Algebraic Geometry in String Theory seminar (w. Yun Shi)
-        location: Harvard CMSA
+        school: Harvard CMSA
         time: 2021.9 - 2022.6
         link: https://cmsa.fas.harvard.edu/event_category/algebraic-geometry-in-string-theory/
         linkname: CLICK
