@@ -49,7 +49,9 @@
   contents:
     - category: Seminars
       items:
-      - name: 2021/9 - 2022/6, Algebraic Geometry in String Theory seminar @ Harvard CMSA
+      - name: Algebraic Geometry in String Theory seminar
+        school: Harvard CMSA
+        time: 2021/9 - 2022/6
         link: https://cmsa.fas.harvard.edu/event_category/algebraic-geometry-in-string-theory/
         linkname: CLICK
       - name: 2020/09 - 2021/06, Mathematical Physics seminar @ Harvard CMSA
