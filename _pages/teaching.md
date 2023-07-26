@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
-description: Materials for courses. 
+description: Materials for students. 
 nav: true
 nav_order: 3
 display_categories: [Fall 2023]
