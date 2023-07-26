@@ -44,12 +44,12 @@
       year: 2018.2 - 2018.8
       description:
 
-- title: Activities Organized
+- title: Academic Activities
   type: list
   contents:
-    - category: Seminars
+    - category: Seminar Organizer
       items:
-      - name: Algebraic Geometry in String Theory seminar (coorganized w. Charles Doran and Mauricio Romo)
+      - name: Algebraic Geometry in String Theory seminar <br> coorganized w. Charles Doran and Mauricio Romo
         school: Harvard CMSA
         time: 2022.9 - 2023.6
         link: https://cmsa.fas.harvard.edu/event_category/algebraic-geometry-in-string-theory/
@@ -65,13 +65,22 @@
       - name: Geometry and Physics seminar (coorganized w. Yoosik Kim and Du Pei)
         school: Harvard CMSA
         time: 2020.6 - 2020.8
-    - category: Conferences
+    - category: Conference Organizer
       items:
       - name: Representation Theory, Calabi–Yau Manifolds, and Mirror Symmetry (coorganizer w. An Huang, Siu-Cheong Lau, and Andrew Linshaw)
         school: Harvard CMSA
         time: 2022.11.28 - 2022.12.1
         link: https://cmsa.fas.harvard.edu/event/representation-theory-calabi-yau-manifolds-and-mirror-symmetry/
         linkname: CLICK
-      - name: 
+    - category: Invited Talks (selected)
+      item:
+        - name:
+          achool:
+          time: 
+          link:
+          linkname:
+
+  
+    
       
   
