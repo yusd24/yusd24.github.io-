@@ -74,11 +74,11 @@
         linkname: CLICK
     - category: Invited Talks (selected)
       item:
-        - name:
-          school:
-          time: 
-          link:
-          linkname:
+        - name: <p>On the solutions to GKZ D-modules with fractional parameters <br> in <i>Calabi--Yau manifolds and mirror symmetry - Past, Present, and Future -</i>&emsp;</p>
+          school: Gakushuin University
+          time: 2022.8
+          link: https://sites.google.com/view/cyms2022/home?authuser=0
+          linkname: CLICK
 
   
     
