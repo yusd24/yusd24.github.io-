@@ -5,7 +5,7 @@ permalink: /teaching/
 description: Materials for courses. 
 nav: true
 nav_order: 3
-display_categories: [Spring 2024,Fall 2023]
+display_categories: [Fall 2023]
 horizontal: true
 ---
 
