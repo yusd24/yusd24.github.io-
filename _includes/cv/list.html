@@ -18,17 +18,15 @@
         {% for item in content.items %}
         <tr>
           <td></td>
-          <td class="list-group-name"><b>{{ item.name }}</b></td>
-          {% if item.level %}
-          <td class="list-group-level">{{ item.level }}</td>
+          {% if item.time %}
+          <td class="list-group-time">{{ item.time }}</td>
           {% endif %}
           {% if item.school %}
-          <td class="list-group-school">{{ item.school }}
+          <td class="list-group-school">{{ item.school }}</td>
           {% endif %}
-          {% if item.time %}
-          <br><span class="list-group-time">{{ item.time }}</span></td>
-          {% else %}
-          </td>
+          <td class="list-group-name"><i>{{ item.name }}</i></td>
+          {% if item.level %}
+          <td class="list-group-level">{{ item.level }}</td>
           {% endif %}
           {% if item.link %}
           <td class="list-group-link"><a href="{{ item.link }}" target="_blank" class="btncv z-depth-0">{% if item.linkname %}{{ item.linkname }}{% else %}DOC{% endif %}</a></td>
