@@ -1,4 +1,4 @@
-<div class="list-groups col-md-12">
+<div class="list-group col-md-12">
   {% for content in entry.contents %}
     <table class="table-cv list-group-table"> 
       <tbody>
@@ -19,10 +19,10 @@
         <tr>
           <td></td>
           {% if item.time %}
-          <td class="list-group-time col-md">{{ item.time }}</td>
+          <td class="list-group-time col-md-2">{{ item.time }}</td>
           {% endif %}
           {% if item.school %}
-          <td class="list-group-school col-md">{{ item.school }}</td>
+          <td class="list-group-school col-md-2">{{ item.school }}</td>
           {% endif %}
           <td class="list-group-name col-md"><i>{{ item.name }}</i></td>
           {% if item.level %}
