@@ -55,16 +55,16 @@
         link: https://cmsa.fas.harvard.edu/event_category/algebraic-geometry-in-string-theory/
         linkname: CLICK
       - name: Mathematical Physics seminar
+        school: Harvard CMSA
         time: 2020.9 - 2021.6
-        location: Harvard CMSA
       - name: Geometry and Physics seminar
+        school: Harvard CMSA
         time: 2020.6 - 2020.8
-        location: Harvard CMSA
     - category: Conferences
       items:
       - name: Representation Theory, Calabi–Yau Manifolds, and Mirror Symmetry
+        school: Harvard CMSA
         time: 2022.11.28 - 2022.12.1
-        location: Harvard CMSA
         link: https://cmsa.fas.harvard.edu/event/representation-theory-calabi-yau-manifolds-and-mirror-symmetry/
         linkname: CLICK
       - name: 
