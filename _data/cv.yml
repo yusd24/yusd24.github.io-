@@ -31,17 +31,17 @@
   contents:
     - title: Assistant Professor
       institution: Natioinal Cheng Kung University
-      year: 2023/9 - NOW
+      year: 2023.9 - NOW
       department: Departmant of Mathematics
       location: Tainan, Taiwan
     - title: Postdoctoral Fellow
       institution: Harvard University
       department: Center of Mathematical Sciences and Applications
       location: Massachusetts, US
-      year: 2018/9 - 2023/8
+      year: 2018.9 - 2023.8
     - title: Postdoctoral Fellow
       institution: National Taiwan University
-      year: 2018/2 - 2018/8
+      year: 2018.2 - 2018.8
       description:
 
 - title: Activities Organized
@@ -51,18 +51,18 @@
       items:
       - name: Algebraic Geometry in String Theory seminar
         school: Harvard CMSA
-        time: 2021/9 - 2022/6
+        time: 2021.9 - 2022.6
         link: https://cmsa.fas.harvard.edu/event_category/algebraic-geometry-in-string-theory/
         linkname: CLICK
       - name: Mathematical Physics seminar
-        time: 2020/09 - 2021/06
+        time: 2020.9 - 2021.6
         school: Harvard CMSA
       - name: Geometry and Physics seminar
-        time: 2020/06 - 2020/08
+        time: 2020.6 - 2020.8
         school: Harvard CMSA
     - category: Conferences
       items:
-      - name: 2022/11/28 - 2022/12/1, Representation Theory, Calabi–Yau Manifolds, and Mirror Symmetry @ Harvard CMSA
+      - name: 2022.11.28 - 2022.12.1, Representation Theory, Calabi–Yau Manifolds, and Mirror Symmetry @ Harvard CMSA
         link: https://cmsa.fas.harvard.edu/event/representation-theory-calabi-yau-manifolds-and-mirror-symmetry/
         linkname: CLICK
       - name: 
