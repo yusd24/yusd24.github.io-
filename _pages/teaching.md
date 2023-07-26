@@ -1,11 +1,12 @@
 ---
 layout: page
-permalink: /teaching/
 title: Teaching
+permalink: /teaching/
 description: Materials for courses. 
 nav: true
 nav_order: 3
 display_categories: [Spring 2024,Fall 2023]
+horizontal: true
 ---
 
 <!-- pages/teaching.md -->
