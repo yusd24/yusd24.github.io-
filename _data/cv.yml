@@ -62,7 +62,9 @@
         school: Harvard CMSA
     - category: Conferences
       items:
-      - name: 2022.11.28 - 2022.12.1, Representation Theory, Calabi–Yau Manifolds, and Mirror Symmetry @ Harvard CMSA
+      - name: Representation Theory, Calabi–Yau Manifolds, and Mirror Symmetry
+        time: 2022.11.28 - 2022.12.1
+        school: Harvard CMSA
         link: https://cmsa.fas.harvard.edu/event/representation-theory-calabi-yau-manifolds-and-mirror-symmetry/
         linkname: CLICK
       - name: 
