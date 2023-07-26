@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliation</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: tj-lee-random.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>305 Math Building</p>
