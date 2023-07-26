@@ -8,7 +8,7 @@
     - name: Email Address
       value: tjlee@cmsa.fas.harvard.edu
     - name: Research Interests
-      value: Calabi--Yau geometry
+      value: Complex geometry, algebraic geometry, and Calabi--Yau geometry
     - name: Languages
       value: Mandarin Chinese, English
 
@@ -20,7 +20,7 @@
       department: Department of Mathematics
       location: Taipei, Taiwan
       year: 2016
-      description: 
+      description: Dissertation: Geometry arising from periods of Calabi–-Yau degenerations and transitions.
     - title: Bachelor in Mathematics
       institution: National Taiwan University
       department: Department of Mathematics
