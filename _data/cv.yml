@@ -67,26 +67,26 @@
         time: 2020.6 - 2020.8
     - category: Conference Organizer
       items:
-      - name: <p><i>Representation Theory, Calabi–Yau Manifolds, and Mirror Symmetry</i>&emsp;<br> (coorganizer w. An Huang, Siu-Cheong Lau, and Andrew Linshaw)</p>
+      - name: <p><i>Representation Theory, Calabi–Yau Manifolds, and Mirror Symmetry</i><br> (coorganizer w. An Huang, Siu-Cheong Lau, and Andrew Linshaw)</p>
         school: Harvard CMSA
-        time: 2022.11.28 - 2022.12.1
+        time: &emsp;2022.11.28 - 2022.12.1
         link: https://cmsa.fas.harvard.edu/event/representation-theory-calabi-yau-manifolds-and-mirror-symmetry/
         linkname: CLICK
     - category: Invited Talks (selected)
       items:
-        - name: <p>On the solutions to GKZ D-modules with fractional parameters <br> in <i>Calabi--Yau manifolds and mirror symmetry - Past, Present, and Future -</i>&emsp;</p>
+        - name: <p>On the solutions to GKZ D-modules with fractional parameters <br> in <i>Calabi--Yau manifolds and mirror symmetry - Past, Present, and Future -</i></p>
           school: Gakushuin University
-          time: 2022.8
+          time: &emsp;2022.8
           link: https://sites.google.com/view/cyms2022/home?authuser=0
           linkname: CLICK
-        - name: <p>Mirror duality between Calabi–Yau fractional complete intersections<br> in <i>Simons Collaboration on HMS Annual Meeting 2021</i>&emsp;</p>
+        - name: <p>Mirror duality between Calabi–Yau fractional complete intersections<br> in <i>Simons Collaboration on HMS Annual Meeting 2021</i></p>
           school: Simons Foundation
-          time: 2021.11
+          time: &emsp;2021.11
           link: https://www.simonsfoundation.org/event/simons-collaboration-on-homological-mirror-symmetry-annual-meeting-2021/
           linkname: CLICK
         - name: <p>On the solutions to GKZ D-modules with fractional parameters <br> in <i>Calabi--Yau manifolds and mirror symmetry - Past, Present, and Future -</i>&emsp;</p>
           school: Gakushuin University
-          time: 2022.8
+          time: &emsp;2022.8
           link: https://sites.google.com/view/cyms2022/home?authuser=0
           linkname: CLICK
 
