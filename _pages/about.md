@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliation</a>
+subtitle: <a href=https://www.math.ncku.edu.tw/english/news/news.html>Department of Mathematics, NCKU</a>
 
 profile:
   align: right
