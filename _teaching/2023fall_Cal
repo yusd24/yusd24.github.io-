@@ -15,11 +15,11 @@ category: Fall 2023
 
 
 <table>
-  <caption style="caption-side:top"; align="center">課程內容</caption>
+  <caption style="caption-side:top"><center>課程內容</center></caption>
   <tr>
-    <th style="width:25%"> 時間 </th>
-    <th style="width:25%"> 章節 </th>
-    <th style="width:50%"> 預定進度 </th>
+    <th style="width:25%"><center> 時間 </center></th>
+    <th style="width:25%"><center> 章節 </center></th>
+    <th style="width:50%"><center> 預定進度 </center></th>
   </tr>
   <tr>
     <td>9/4, 9/6</td> 
