@@ -15,15 +15,15 @@ category: Fall 2023
 
 
 <table>
-<caption>課程內容</caption>
-<tr>
-  <th style="width:20%"> 時間 </th>
-  <th style="width:20%"> 章節 </th>
-  <th style="width:60%"> 預定進度 </th>
-</tr>
-<tr>
-  <td>9/4, 9/6</td> 
-  <td>1.1 - 1.5</td>
-  <td>Functions, exponential functions, trigonometric functions, and their inverse functions.</td>
-</tr> 
+  <caption>課程內容</caption>
+  <tr>
+    <th style="width:20%"> 時間 </th>
+    <th style="width:20%"> 章節 </th>
+    <th style="width:60%"> 預定進度 </th>
+  </tr>
+  <tr>
+    <td>9/4, 9/6</td> 
+    <td>1.1 - 1.5</td>
+    <td>Functions, exponential functions, trigonometric functions, and their inverse functions.</td>
+  </tr> 
 </table>
