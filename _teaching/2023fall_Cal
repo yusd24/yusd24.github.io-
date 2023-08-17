@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Calculus
-description: Webpage for Calculus
+title: Calculus (1) 
+description: 微積分一
 img: assets/img/12.jpg
 importance: 1
 category: Fall 2023
@@ -15,7 +15,6 @@ category: Fall 2023
 <br><b>Teaching Assistants</b>:</p>
 
 <p><b>先修課程或先備能力</b>：高中數學</p>
-
 
 <p><b>重要公告與注意事項</b>：
 <ul>
