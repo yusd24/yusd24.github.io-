@@ -1,4 +1,4 @@
----
+    ---
 layout: page
 title: Calculus (1) 
 description: 微積分一
@@ -49,7 +49,7 @@ category: Fall 2023
   </tr>
   <tr>
     <td> 9/18, 9/20</td>
-    <td> 2.3 - 2.5 </td>
+    <td> 2.3, 2.5 </td>
     <td> Evaluate limits using the limit laws; continuity.</td>
   </tr>
   <tr>
