@@ -7,7 +7,7 @@ importance: 1
 category: Fall 2023
 ---
 
-<p><b>Instructor</b>: Tsung-Ju Lee
+<p><b>授課教師</b>: 李宗儒 Tsung-Ju Lee
 <br><b>學分數</b>: 3
 <br><b>上課時間</b>: 星期一 9:10am - 11:00am, 星期三 9:10am - 10:00am
 <br><b>實習課時間</b>: 星期三 8:10am - 9:00am
