@@ -93,14 +93,14 @@ category: Fall 2023
     <td> The fundamental theorem of Calculus; indefinite integrals and the net change theorem.</td>
   </tr>
   <tr>
-    <td> 11/20 (Midterm), 11/22 </td>
-    <td> 5.5 </td>
-    <td> The substitution rule.</td>
+    <td> 11/20 (Midterm), 11/22 (停課)</td>
+    <td> </td>
+    <td> </td>
   </tr>
   <tr>
     <td> 11/27, 11/29 </td>
-    <td> 6.1 - 6.3, 7.1</td>
-    <td> Areas between curves; volume; volumes by cylindrical shells; integration by parts.</td>
+    <td> 5.5, 7.1</td>
+    <td> Substitution; integration by parts.</td>
   </tr>
   <tr>
     <td> 12/4, 12/6 </td>
@@ -109,23 +109,23 @@ category: Fall 2023
   </tr>
   <tr>
     <td> 12/11, 12/13 </td>
-    <td> 7.5, 7.8, <br> 8.1, 8.2 </td>
-    <td> strategy for integration; improper integrals; ＊Laplace transform; arc length; area of a surface of revolution.</td>
+    <td> 6.1 - 6.3, <br> 8.1 - 8.2 </td>
+    <td> Applications of integrations: areas, volumes, arc length, area of a surface of revolution.</td>
   </tr>
   <tr>
     <td> 12/18, 12/20 </td>
-    <td> 9.1, 9.3, 9.5 </td>
-    <td> Modeling with differential equations; separable equations; linear equations.</td>
+    <td> 7.8, 9.1, 9.3, 9.5 </td>
+    <td> Improper integrals; ＊Laplace transform; modeling with differential equations; separable equations; linear equations.</td>
   </tr>
   <tr>
     <td> 12/25, 12/27 </td>
     <td> 8.5 </td>
-    <td> ＊Second-order differential equations; ＊solving differential equations by Laplace transform; probability.</td>
+    <td> ＊Second-order differential equations; ＊solving differential equations by Laplace transform; probability (optional).</td>
   </tr>
   <tr>
     <td> 1/1 (停課), <br> 1/3 (Final) </td>
     <td> </td>
-    <td> 考試範圍：上學期所有內容 </td>
+    <td> </td>
   </tr>
 
 </table>
