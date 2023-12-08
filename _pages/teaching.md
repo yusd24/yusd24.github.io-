@@ -6,7 +6,7 @@ description: Materials for students.
 nav: true
 nav_order: 3
 display_categories: [Fall 2023, Spring 2024]
-horizontal: 
+horizontal: true
 ---
 
 <!-- pages/teaching.md -->
