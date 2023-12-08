@@ -2,7 +2,7 @@
 layout: page
 title: Calculus (2) 
 description: 微積分二
-img: assets/img/12.jpg
+img: assets/img/3.jpg
 importance: 1
 category: Spring 2024
 ---
