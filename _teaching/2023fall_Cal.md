@@ -115,12 +115,12 @@ category: Fall 2023
   <tr>
     <td> 12/18, 12/20 </td>
     <td> 6.3 7.8, 9.1 </td>
-    <td> Arc length, area of a surface of revolution; improper integrals.</td>
+    <td> Arc length, area of a surface of revolution; improper integrals; ＊Laplace transform.</td>
   </tr>
   <tr>
     <td> 12/25, 12/27 </td>
     <td> 9.3, 9.5 </td>
-    <td> Inproper integrals; ＊Laplace transform; modeling with differential equations; separable equations; linear equations; ＊second-order differential equations; ＊solving differential equations by Laplace transform.</td>
+    <td> Modeling with differential equations; separable equations; linear equations; ＊second-order differential equations; ＊solving differential equations by Laplace transform.</td>
   </tr>
   <tr>
     <td> 1/1 (停課), <br> 1/3 (Final) </td>
