@@ -114,7 +114,7 @@ category: Fall 2023
   </tr>
   <tr>
     <td> 12/18, 12/20 </td>
-    <td> 6.3 7.8, 9.1 </td>
+    <td> 6.3, 7.8, 9.1 </td>
     <td> Arc length, area of a surface of revolution; improper integrals; ＊Laplace transform.</td>
   </tr>
   <tr>
