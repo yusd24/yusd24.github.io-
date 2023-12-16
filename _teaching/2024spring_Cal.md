@@ -53,74 +53,74 @@ category: Spring 2024
     <td>Taylor series and Maclaurin series; applications.</td>
   </tr>
   <tr>
-    <td> 10/2, 10/4</td>
-    <td> 3.2 - 3.4 </td>
-    <td> The product and quotient rules; derivatives of trigonometric functions; the chain rule.</td>
+    <td> 3/18, 3/20</td>
+    <td> 13.1 - 13.3 </td>
+    <td>Vector functions and space curves; derivatives and integrals of vector functions; arc length and curvature.</td>
   </tr>
   <tr>
-    <td> 10/9 (停課), 10/11</td>
-    <td> 3.5 </td>
-    <td> Implicit differentiation.</td>
+    <td> 3/25, 3/27</td>
+    <td>14.1 - 14.2</td>
+    <td>Functions of several variables; limits and continuity.</td>
   </tr>
   <tr>
-    <td> 10/16, 10/18</td>
-    <td> 3.6, 4.1 </td>
-    <td> Derivatives of logarithmic functions; inverse trigonometric functions and their derivatives; maximum and minimum values.</td>
+    <td> 4/1, 4/3</td>
+    <td> 14.3 - 14.5 </td>
+    <td>Partial derivatives; tangent planes and linear approximations; the chain rule.</td>
   </tr>
   <tr>
-    <td> 10/23, 10/25</td>
-    <td> 4.2, 4.4 </td>
-    <td> The mean value theorem; indeterminate forms and l'Hospital's rule.</td>
+    <td> 4/8, 4/10</td>
+    <td> 14.6 - 14.8 </td>
+    <td>Directional derivatives and the gradient vector; maximum and minimum values; Lagrange multipliers.</td>
   </tr>
   <tr>
-    <td> 10/30, <br> 11/1 (停課)</td>
-    <td> 4.3, 4.5</td>
-    <td> How derivatives affect the shape of a graph; summary of curve sketching.</td>
+    <td> 4/15, 4/17 </td>
+    <td> 15.1 </td>
+    <td> Midterm; double integrals over rectangles. </td>
   </tr>
   <tr>
-    <td> 11/6, 11/8 </td>
-    <td> 4.9, 5.1, 5.2 </td>
-    <td> Antiderivatives; areas and distances; the definite integral.</td>
+    <td> 4/22, 4/24 </td>
+    <td> 15.2 - 15.4 </td>
+    <td> Double integrals over general regions; double integrals in polar coordinates; applications.</td>
   </tr>
   <tr>
-    <td> 11/13, 11/15 </td>
-    <td> 5.3 - 5.4 </td>
-    <td> The fundamental theorem of Calculus; indefinite integrals and the net change theorem.</td>
+    <td> 4/29, 5/1 </td>
+    <td> 15.5 - 15.7 </td>
+    <td>Surfaces area; triple integrals; triple integrals in cylindrical coordinates.</td>
   </tr>
   <tr>
-    <td> 11/20 (Midterm), 11/22 (停課)</td>
+    <td> 5/6, 5/8 </td>
+    <td> 15.8 - 15.9 </td>
+    <td>Triple integrals in spherical coordinates; change of variables in multiple integrals</td>
+  </tr>
+  <tr>
+    <td> 5/13, 5/15 </td>
+    <td> 16.1 - 16.3 </td>
+    <td> Vector fields; line integrals; the fundamental theorem for line integrals.</td>
+  </tr>
+  <tr>
+    <td> 5/20, 5/22 </td>
+    <td> 16.4 - 16.5 </td>
+    <td> Green's theorem; curl and divergence.</td>
+  </tr>
+  <tr>
+    <td> 5/27, 5/29 </td>
+    <td> 16.6 - 16.7 </td>
+    <td> Parametric surfaces and their area; surface integrals.</td>
+  </tr>
+  <tr>
+    <td> 6/3, 6/5 </td>
+    <td> 16.8 - 16.9 </td>
+    <td> Stokes' theorem; the divergence theorem.</td>
+  </tr>
+  <tr>
+    <td> 6/10 (放假), 6/12 </td>
+    <td> 16.10 </td>
+    <td> Summary and review.</td>
+  </tr>
+  <tr>
+    <td> 6/17, 6/19 </td>
     <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td> 11/27, 11/29 </td>
-    <td> 5.5, 7.1</td>
-    <td> Substitution; integration by parts.</td>
-  </tr>
-  <tr>
-    <td> 12/4, 12/6 </td>
-    <td> 7.2 - 7.4 </td>
-    <td> trigonometric integrals; trigonometric substitution; integration of rational functions by partial fractions.</td>
-  </tr>
-  <tr>
-    <td> 12/11, 12/13 </td>
-    <td> 6.1 - 6.2, <br> 8.1 - 8.2 </td>
-    <td> Applications of integrations: areas, volumes.</td>
-  </tr>
-  <tr>
-    <td> 12/18, 12/20 </td>
-    <td> 6.3, 7.8, 9.1 </td>
-    <td> Arc length, area of a surface of revolution; improper integrals; ＊Laplace transform.</td>
-  </tr>
-  <tr>
-    <td> 12/25, 12/27 </td>
-    <td> 9.3, 9.5 </td>
-    <td> Modeling with differential equations; separable equations; linear equations; ＊second-order differential equations; ＊solving differential equations by Laplace transform.</td>
-  </tr>
-  <tr>
-    <td> 1/1 (停課), <br> 1/3 (Final) </td>
-    <td> </td>
-    <td> </td>
+    <td> Final Exam </td>
   </tr>
 
 </table>
