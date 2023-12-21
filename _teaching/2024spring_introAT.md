@@ -28,7 +28,7 @@ category: Spring 2024
   <caption style="caption-side:top"><center>課程內容</center></caption>
   <tr>
     <th style="width:23%"> 上課日期 </th>
-    <th style="width:60%"><center> 預定進度 (＊表示額外補充) </center></th>
+    <th style="width:60%"><center> 預定進度 </center></th>
   </tr>
   <tr>
     <td>2/21, 2/22</td> 
@@ -46,9 +46,13 @@ category: Spring 2024
     <td> 3/13, 3/14</td>
     <td>Deck transformations; van Kampen theorem.</td>
   </tr>
-    <tr>
+  <tr>
     <td> 3/20, 3/21</td>
     <td>Singular homology: ideas and the construction.</td>
+  </tr>
+  <tr>
+    <td> 3/27, 3/28</td>
+    <td>Relative homology; exact sequences; excision.</td>
   </tr>
 
 
