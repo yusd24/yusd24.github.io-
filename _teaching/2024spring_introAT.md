@@ -40,7 +40,7 @@ category: Spring 2024
   </tr>
   <tr>
     <td> 3/6, 3/7</td>
-    <td>covering spaces.</td>
+    <td>Lifting properties; universal covers; Deck transformations.</td>
   </tr>
 
 </table>
