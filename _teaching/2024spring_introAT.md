@@ -40,8 +40,13 @@ category: Spring 2024
   </tr>
   <tr>
     <td> 3/6, 3/7</td>
-    <td>Lifting properties; universal covers; Deck transformations.</td>
+    <td>Lifting properties; universal covers.</td>
   </tr>
+  <tr>
+    <td> 3/13, 3/14</td>
+    <td>Deck transformations; van Kampen theorem.</td>
+  </tr>
+
 
 </table>
 </p>
