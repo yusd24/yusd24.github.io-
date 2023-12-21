@@ -23,6 +23,30 @@ category: Spring 2024
 </ul>
 </p>
 
+<p><b>預計課程內容與進度</b>：
+<table border="1">
+  <caption style="caption-side:top"><center>課程內容</center></caption>
+  <tr>
+    <th style="width:23%"> 上課日期 </th>
+    <th style="width:60%"><center> 預定進度 (＊表示額外補充) </center></th>
+  </tr>
+  <tr>
+    <td>2/21, 2/22</td> 
+    <td>Path and homotopy; fundamental groups.</td>
+  </tr> 
+  <tr>
+    <td> 2/28 (停課), 3/1</td>
+    <td>Examples; covering spaces.</td>
+  </tr>
+  <tr>
+    <td> 3/6, 3/7</td>
+    <td>covering spaces.</td>
+  </tr>
+
+</table>
+</p>
+
+
 <p>
 <br>
 </p>
