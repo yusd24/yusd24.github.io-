@@ -52,13 +52,24 @@ category: Spring 2024
   </tr>
   <tr>
     <td> 3/27, 3/28</td>
-    <td>Relative homology; exact sequences; excision.</td>
+    <td>Relative homology; exact sequences; subdivisions.</td>
   </tr>
   <tr>
     <td> 4/3, 4/4 (停課)</td>
-    <td>Subdivisions.</td>
+    <td>Excision; Mayer--Vietoris sequences.</td>
   </tr>
-
+  <tr>
+    <td> 4/10, 4/11 </td>
+    <td>Homology and fundamental group; applications.</td>
+  </tr>
+  <tr>
+    <td> 4/17, 4/18 </td>
+    <td>CW complexes; cellular homology.</td>
+  </tr>
+  <tr>
+    <td> 4/24, 4/25 </td>
+    <td>Midterm.</td>
+  </tr>
 
 </table>
 </p>
