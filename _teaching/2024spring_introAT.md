@@ -54,6 +54,10 @@ category: Spring 2024
     <td> 3/27, 3/28</td>
     <td>Relative homology; exact sequences; excision.</td>
   </tr>
+  <tr>
+    <td> 4/3, 4/4 (停課)</td>
+    <td>Subdivisions.</td>
+  </tr>
 
 
 </table>
