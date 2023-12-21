@@ -27,8 +27,8 @@ category: Spring 2024
 <table border="1">
   <caption style="caption-side:top"><center>課程內容</center></caption>
   <tr>
-    <th style="width:23%"> 上課日期 </th>
-    <th style="width:60%"><center> 預定進度 </center></th>
+    <th style="width:35%"> 上課日期 </th>
+    <th style="width:65%"><center> 預定進度 </center></th>
   </tr>
   <tr>
     <td>2/21, 2/22</td> 
