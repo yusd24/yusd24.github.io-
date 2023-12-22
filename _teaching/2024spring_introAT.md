@@ -94,15 +94,15 @@ point-set topology (covered in Advanced Calculus).
   </tr>
   <tr>
     <td> 5/22, 5/23 </td>
-    <td>Poincare duality; applications</td>
+    <td>Poincare duality; applications.</td>
   </tr>
   <tr>
     <td> 5/29, 5/30 </td>
-    <td>de Rham cohomology; Cech cohomology</td>
+    <td>de Rham cohomology; Cech cohomology.</td>
   </tr>
   <tr>
     <td> 6/5, 6/6 </td>
-    <td>A formal viewpoint; categories and functors</td>
+    <td>A formal viewpoint; categories and functors.</td>
   </tr>
   <tr>
     <td> 6/12, 6/13 </td>
