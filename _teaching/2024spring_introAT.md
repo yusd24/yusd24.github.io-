@@ -68,7 +68,11 @@ category: Spring 2024
   </tr>
   <tr>
     <td> 4/24, 4/25 </td>
-    <td>Midterm.</td>
+    <td>Midterm; cohoomology: ideas and the construction.</td>
+  </tr>
+  <tr>
+    <td> 5/1, 5/2 </td>
+    <td>Universal coefficient theorem for cohomology;</td>
   </tr>
 
 </table>
