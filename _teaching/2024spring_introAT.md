@@ -15,8 +15,8 @@ category: Spring 2024
 <p><b>參考書目</b>：
 <ul>
 <li></li> Allen Hatcher, Algebraic Topology.
-<li></li> James W. Vick, Homology Theory: An Introduction to Algebraic Topology
-<li></li> 
+<li></li> James W. Vick, Homology Theory: An Introduction to Algebraic Topology.
+<li></li> Raoul Bott and Loring W. Tu, Differential Forms in Algebraic Topology.
 </ul>
 
 <p><b>先修課程或先備能力</b>：基礎代數、基礎拓墣學</p>
