@@ -72,7 +72,7 @@ category: Spring 2024
   </tr>
   <tr>
     <td> 5/1, 5/2 </td>
-    <td>Universal coefficient theorem for cohomology.</td>
+    <td>Universal coefficient theorem for singular cohomology.</td>
   </tr>
   <tr>
     <td> 5/8, 5/9 </td>
