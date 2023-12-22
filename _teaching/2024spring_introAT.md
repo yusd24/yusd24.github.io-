@@ -82,6 +82,14 @@ category: Spring 2024
     <td> 5/15, 5/16 </td>
     <td>Kunneth formula; Poincare duality.</td>
   </tr>
+  <tr>
+    <td> 5/22, 5/23 </td>
+    <td>Poincare duality; applications</td>
+  </tr>
+  <tr>
+    <td> 5/19, 5/30 </td>
+    <td>de Rham cohomology; Cech cohomology</td>
+  </tr>
 
 </table>
 </p>
