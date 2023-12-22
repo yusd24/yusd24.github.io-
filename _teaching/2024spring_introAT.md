@@ -104,6 +104,10 @@ category: Spring 2024
     <td> 6/12, 6/13 </td>
     <td>Sheaf cohomology.</td>
   </tr>
+  <tr>
+    <td> 6/19, 6/20 </td>
+    <td>Final exam/oral presentation.</td>
+  </tr>
 
 </table>
 </p>
