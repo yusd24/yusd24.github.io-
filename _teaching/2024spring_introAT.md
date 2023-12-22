@@ -90,6 +90,14 @@ category: Spring 2024
     <td> 5/29, 5/30 </td>
     <td>de Rham cohomology; Cech cohomology</td>
   </tr>
+  <tr>
+    <td> 6/5, 6/6 </td>
+    <td>A formal viewpoint; categories and functors</td>
+  </tr>
+  <tr>
+    <td> 6/12, 6/13 </td>
+    <td>Sheaf cohomology.</td>
+  </tr>
 
 </table>
 </p>
