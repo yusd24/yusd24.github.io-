@@ -76,7 +76,11 @@ category: Spring 2024
   </tr>
   <tr>
     <td> 5/8, 5/9 </td>
-    <td>Examples; cup product.</td>
+    <td>Examples; cup product and cohomology ring.</td>
+  </tr>
+  <tr>
+    <td> 5/15, 5/16 </td>
+    <td>Kunneth formula; Poincare duality.</td>
   </tr>
 
 </table>
