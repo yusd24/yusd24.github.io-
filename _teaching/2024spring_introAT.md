@@ -22,7 +22,7 @@ category: Spring 2024
 <p><b>先修課程或先備能力</b>：基礎代數（能使用群、環、體、向量空間等基礎代數語言）、
   基礎拓墣學（點集拓墣）。
 Students are supposed to be familiar with basics of algebra (languages of groups, rings, fields, vector spaces) and
-point-set topology. 
+point-set topology (covered in Advanced Calculus). 
 </p>
 
 <p><b>重要公告與注意事項</b>：
