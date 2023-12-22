@@ -19,10 +19,10 @@ category: Spring 2024
 <li></li> Raoul Bott and Loring W. Tu, Differential Forms in Algebraic Topology.
 </ul>
 
-<p><b>先修課程或先備能力</b>：基礎代數（群、環、體、向量空間等基礎代數結構）、
+<p><b>先修課程或先備能力</b>：基礎代數（能使用群、環、體、向量空間等基礎代數語言）、
   基礎拓墣學（點集拓墣）。
 Students are supposed to be familiar with basics of algebra (languages of groups, rings, fields, vector spaces) and
-and point-set topology. 
+point-set topology. 
 </p>
 
 <p><b>重要公告與注意事項</b>：
