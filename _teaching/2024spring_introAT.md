@@ -87,7 +87,7 @@ category: Spring 2024
     <td>Poincare duality; applications</td>
   </tr>
   <tr>
-    <td> 5/19, 5/30 </td>
+    <td> 5/29, 5/30 </td>
     <td>de Rham cohomology; Cech cohomology</td>
   </tr>
 
