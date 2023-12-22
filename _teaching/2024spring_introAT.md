@@ -12,6 +12,12 @@ category: Spring 2024
 <br><b>上課時間</b>: 星期三 1:10pm - 2:00pm, 星期四 9:10am - 11:00am
 <br><b>上課地點</b>: 
 <br><b>課程網站</b>: 
+<p><b>參考書目</b>：
+<ul>
+<li></li> Allen Hatcher, Algebraic Topology.
+<li></li> James W. Vick, Homology Theory: An Introduction to Algebraic Topology
+<li></li> 
+</ul>
 
 <p><b>先修課程或先備能力</b>：基礎代數、基礎拓墣學</p>
 
