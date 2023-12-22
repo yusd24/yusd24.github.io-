@@ -44,7 +44,7 @@ category: Spring 2024
   </tr>
   <tr>
     <td> 3/13, 3/14</td>
-    <td>Deck transformations; van Kampen theorem.</td>
+    <td>Deck transformations; van Kampen theorem (optional).</td>
   </tr>
   <tr>
     <td> 3/20, 3/21</td>
