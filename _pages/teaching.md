@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 description: Materials for students. 
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: [Spring 2024, Fall 2023]
 horizontal: true
 ---
