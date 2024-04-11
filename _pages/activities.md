@@ -8,4 +8,5 @@ description: Recent activities
 ---
 
 ### 2024 TIMS Summer Program in Geometry
+## Dates: 7/10 -- 7/20
 
