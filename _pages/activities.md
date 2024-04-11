@@ -24,6 +24,7 @@ Sponsor:
 ##### Summer School 
 ###### Date: 7/10-7/12, 7/15-7/17
 
+
 Speakers and topics
  - Tristan Collins: A mini-course on conifold transitions
  - Chao-Ming Lin: Sigma-curvature equations
@@ -34,6 +35,7 @@ Speakers and topics
 -------
 ##### Workshop: *Geometry crossing singularities*
 ###### Date: 7/18-7/20
+
 
 Invited Speakers
  - Tristan Collins (University of Toronto)
