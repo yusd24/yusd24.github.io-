@@ -11,7 +11,7 @@ description: Recent activities
 -------
 
 >#### Summer school (7/10-7/12, 7/15-7/17)
-> Invited Speakers:
+> ###### Invited Speakers:
 > - Tristan Collins
 > - Mauricio Romo
 > - Chao-Ming Lin
