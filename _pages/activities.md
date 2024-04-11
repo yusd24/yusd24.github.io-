@@ -11,15 +11,16 @@ description: Recent activities
 -------
 
 >#### Summer school (7/10-7/12, 7/15-7/17)
->Invited Speakers:
->- Tristan Collins
->- Mauricio Romo
->- Chao-Ming Lin
+> Invited Speakers:
+> - Tristan Collins
+> - Mauricio Romo
+> - Chao-Ming Lin
 
 
 
 -------
 >#### Workshop: *Geometry crossing singularities* (7/18 - 7/20)
+
 -------
 
 
