@@ -8,8 +8,8 @@ description: Recent activities
 ---
 
 ### **2024 TIMS Summer Program in Geometry**
-Venue: R202, Astronomy Mathematics Bldg., NTU
-Time: 7/10-7/20
+###### Venue: R202, Astronomy Mathematics Bldg., NTU
+###### Time: 7/10-7/20
 
 Organizers:
  - Wu-yen Chuang (NTU & TIMS)
