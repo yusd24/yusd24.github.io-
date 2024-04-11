@@ -14,7 +14,7 @@ description: Recent activities
 >Invited Speakers:
 >- Tristan Collins
 >- Mauricio Romo
->>- Chao-Ming Lin
+>- Chao-Ming Lin
 
 
 
