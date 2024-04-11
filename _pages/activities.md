@@ -32,6 +32,7 @@ Singularity appears in numerous branches of mathematics and physics; it provides
 **Speakers and topics**
  - Tristan Collins: A mini-course on conifold transitions
  - Chao-Ming Lin: Sigma-curvature equations
+ - Sebastein Picard: Strominger systems
  - Mauricio Romo: M-theory and enumerative invariants
  
 
@@ -44,17 +45,18 @@ Singularity appears in numerous branches of mathematics and physics; it provides
 **Invited Speakers**
  - Tristan Collins (University of Toronto)
  - Teng Fei* (Rutgers University)
- - Marco Gualtieri (University of Toronto)
- -	Chin-Yu Hsiao (Academia Sinica)
+ - Marco Gualtieri+ (University of Toronto)
+ -	Chin-Yu Hsiao+ (Academia Sinica)
  -	Tsung-Ju Lee (National Cheng Kung University)
  -	Chao-Ming Lin (Ohio State University)
  -	Yu-Shen Lin (Boston University)
  -	Sebastien Picard (University of British Columbia)
  -	Mauricio Romo (SIMIS and Fudan University)
- -	Alessandro Tomasiello (Università Milano-Bicocca)
- -	Sz-Sheng Wang (Academia Sinica)
+ -	Alessandro Tomasiello+ (Università Milano-Bicocca)
+ -	Sz-Sheng Wang+ (Academia Sinica)
 
 *Online
++TBD
 
 
 -------
