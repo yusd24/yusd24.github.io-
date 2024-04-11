@@ -19,7 +19,7 @@ description: Recent activities
 
 
 -------
-#### Workshop: *Geometry crossing singularities* (7/18 - 7/20)
+>#### Workshop: *Geometry crossing singularities* (7/18 - 7/20)
 -------
 
 
