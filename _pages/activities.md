@@ -8,5 +8,10 @@ description: Recent activities
 ---
 
 ### 2024 TIMS Summer Program in Geometry
-#### Dates: 7/10 -- 7/20
+
+#### Summer school (7/10-7/12, 7/15-7/17)
+
+#### Workshop: Geometry crossing singularities (7/18 - 7/20)
+
+
 
