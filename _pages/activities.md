@@ -21,7 +21,7 @@ Sponsor:
 
 -------
 
-##### Summer School 
+##### **Summer School**
 ###### Date: 7/10-7/12, 7/15-7/17
 
 
@@ -33,7 +33,7 @@ Speakers and topics
 
 
 -------
-##### Workshop: *Geometry crossing singularities*
+##### **Workshop**: *Geometry crossing singularities*
 ###### Date: 7/18-7/20
 
 
