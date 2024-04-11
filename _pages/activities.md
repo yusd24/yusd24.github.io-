@@ -8,12 +8,21 @@ description: Recent activities
 ---
 
 ### **2024 TIMS Summer Program in Geometry**
-Venue: Taida Institute for Mathematical Sciences
+Venue: R202, Astronomy Mathematics Bldg., NTU
+Time: 7/10-7/20
+
+Organizers:
+ - Wu-yen Chuang (NTU & TIMS)
+ - Tsung-Ju Lee (NCKU)
+ - Chin-Lung Wang (NTU & TIMS)
+
+Sponsor:
+ - Taida Institute for Mathematical Sciences (TIMS)
 
 -------
 
 ##### Summer School 
-###### Duration: 7/10-7/12, 7/15-7/17
+###### Time: 7/10-7/12, 7/15-7/17
 
 Speakers and topics
  - Tristan Collins: A mini-course on conifold transitions
@@ -23,7 +32,8 @@ Speakers and topics
 
 
 -------
-##### Workshop: *Geometry crossing singularities* (7/18 - 7/20)
+##### Workshop: *Geometry crossing singularities*
+###### Time: 7/18-7/20
 
 Invited Speakers
  - Tristan Collins (University of Toronto)
