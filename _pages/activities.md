@@ -7,8 +7,7 @@ nav_order: 3
 description: Recent activities
 ---
 
-### **2024 TIMS Summer Program in Geometry**
-===
+## **2024 TIMS Summer Program in Geometry**
 ###### **Venue**: R202, Astronomy Mathematics Bldg., NTU
 ###### **Date**: 7/10-7/20
 ###### **Aim and Scope**:
@@ -26,7 +25,7 @@ Singularity appears in numerous branches of mathematics and physics; it provides
 
 -------
 
-##### **Summer School**
+#### **Summer School**
 ---
 ###### **Date**: 7/10-7/12, 7/15-7/17
 
@@ -40,7 +39,7 @@ Singularity appears in numerous branches of mathematics and physics; it provides
 
 
 -------
-##### **Workshop**: *Geometry crossing singularities*
+#### **Workshop**: *Geometry crossing singularities*
 ---
 ###### **Date**: 7/18-7/20
 
