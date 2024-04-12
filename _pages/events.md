@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /activities/
-title: Activities
+permalink: /events/
+title: Events
 nav: true
 nav_order: 3
-description: Recent activities
+description: Recent events
 ---
 
 ## **2024 TIMS Summer Program in Geometry**
@@ -47,7 +47,7 @@ Singularity appears in numerous branches of mathematics and physics; it provides
 
 **Invited Speakers**
  - Tristan Collins (University of Toronto)
- - Teng Fei* (Rutgers University)
+ - Teng Fei*+ (Rutgers University)
  - Marco Gualtieri+ (University of Toronto)
  -	Chin-Yu Hsiao+ (Academia Sinica)
  -	Tsung-Ju Lee (National Cheng Kung University)
@@ -59,6 +59,7 @@ Singularity appears in numerous branches of mathematics and physics; it provides
  -	Sz-Sheng Wang+ (Academia Sinica)
 
 *Online
+
 +TBD
 
 
