@@ -32,6 +32,7 @@ Singularity appears in numerous branches of mathematics and physics; it provides
 **Speakers and topics**
  - Tristan Collins: A mini-course on conifold transitions
    <details>
+   <summary> TEST </summary>
    Abstract: 
    </details>
  - Chao-Ming Lin: Sigma-curvature equations
