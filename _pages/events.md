@@ -46,7 +46,7 @@ Singularity appears in numerous branches of mathematics and physics; it provides
 
 
 **Invited Speakers**
- - Tristan Collins (University of Toronto)
+ - Tristan Collins (University of Toronto & MIT)
  - Teng Fei+ (Rutgers University)
  - Marco Gualtieri+ (University of Toronto)
  -	Chin-Yu Hsiao+ (Academia Sinica)
