@@ -26,7 +26,6 @@ Singularity appears in numerous branches of mathematics and physics; it provides
 -------
 
 #### **Summer School**
----
 ###### **Date**: 7/10-7/12, 7/15-7/17
 
 
@@ -40,7 +39,6 @@ Singularity appears in numerous branches of mathematics and physics; it provides
 
 -------
 #### **Workshop**: *Geometry crossing singularities*
----
 ###### **Date**: 7/18-7/20
 
 
