@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /activity/
+permalink: /activities/
 title: Activities
 nav: true
 nav_order: 3
@@ -31,6 +31,9 @@ Singularity appears in numerous branches of mathematics and physics; it provides
 
 **Speakers and topics**
  - Tristan Collins: A mini-course on conifold transitions
+   <details>
+   Abstract: 
+   </details>
  - Chao-Ming Lin: Sigma-curvature equations
  - Sebastein Picard: Strominger systems
  - Mauricio Romo: M-theory and enumerative invariants
