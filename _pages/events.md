@@ -12,8 +12,7 @@ description: Recent events
 ###### **Date**: 7/10-7/20
 ###### **Aim and Scope**:
 
-
-Singularity appears in numerous branches of mathematics and physics; it provides information to bridge two different models as well as geometry on them. One of the most important examples is the conifold transition, where the singularities are ordinary double points, and it plays a vital role in understanding the moduli spaces of Calabi--Yau threefolds. The summer program aims to bring together scholars in related areas and provide an opportunity to exchange ideas and insights. We will be focusing on recent developments of differential geometry, algebraic geometry, as well as quantum geometry related to conifold transitions and beyond, from both mathematical and physical aspects. There will be a summer school followed by a workshop.
+Singularity appears in numerous branches of mathematics and physics; it provides information to bridge two different models as well as geometry on them. One of the most important examples is the conifold transition, where the singularities are ordinary double points. Conifold transitions play a vital role in understanding the moduli spaces of Calabi--Yau threefolds. The 2024 TIMS Summer Program aims to bring together scholars in related areas and provide an opportunity to exchange ideas and share insights. This year, we will be focusing on recent developments of differential geometry, algebraic geometry, as well as quantum geometry related to conifold transitions and beyond, from both mathematical and physical aspects. The program consists of a summer school followed by a workshop and will take place from 7/10 to 7/20.
 
 ###### **Organizers**
  - Wu-yen Chuang (NTU & TIMS)
