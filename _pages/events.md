@@ -22,8 +22,7 @@ Singularity appears in numerous branches of mathematics and physics; it provides
 ###### **Sponsor**
  - Taida Institute for Mathematical Sciences (TIMS)
 
-###### **Official website**
-[TIMS](https://www.tims.ntu.edu.tw/modules/news/article.php?storyid=3972)
+###### **Official website** [TIMS](https://www.tims.ntu.edu.tw/modules/news/article.php?storyid=3972)
 
 -------
 
@@ -33,9 +32,11 @@ Singularity appears in numerous branches of mathematics and physics; it provides
 
 **Speakers and topics**
  - Tristan Collins: A mini-course on conifold transitions
+ - Marco Gualtieri: Introduction to generalized Kaehler structures
  - Chao-Ming Lin: Sigma-curvature equations
  - Sebastein Picard: Strominger systems
  - Mauricio Romo: M-theory and enumerative invariants
+ - Alessandro Tomasiello: Supergravity and generalized geometry
  
 
 
@@ -47,14 +48,12 @@ Singularity appears in numerous branches of mathematics and physics; it provides
 **Invited Speakers**
  - Tristan Collins (University of Toronto & MIT)
  - Teng Fei+ (Rutgers University)
- - Marco Gualtieri+ (University of Toronto)
- -	Chin-Yu Hsiao+ (Academia Sinica)
+ -	Chin-Yu Hsiao (Academia Sinica)
  -	Tsung-Ju Lee (National Cheng Kung University)
  -	Chao-Ming Lin (Ohio State University)
  -	Yu-Shen Lin (Boston University)
  -	Sebastien Picard (University of British Columbia)
  -	Mauricio Romo (SIMIS and Fudan University)
- -	Alessandro Tomasiello+ (Università Milano-Bicocca)
  -	Sz-Sheng Wang+ (Academia Sinica)
 
 *Online
