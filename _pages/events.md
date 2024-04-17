@@ -54,7 +54,7 @@ Singularity appears in numerous branches of mathematics and physics; it provides
  -	Yu-Shen Lin (Boston University)
  -	Sebastien Picard (University of British Columbia)
  -	Mauricio Romo (SIMIS and Fudan University)
- -	Sz-Sheng Wang+ (Academia Sinica)
+ -	Sz-Sheng Wang (Academia Sinica)
 
 *Online
 
