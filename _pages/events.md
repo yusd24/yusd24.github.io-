@@ -46,8 +46,10 @@ Singularity appears in numerous branches of mathematics and physics; it provides
 
 
 **Invited Speakers**
+
+ - Shih-Kai Chiu (Vanderbilt University)
  - Tristan Collins (MIT & University of Toronto)
- - Teng Fei+ (Rutgers University)
+ - Teng Fei* (Rutgers University)
  -	Chin-Yu Hsiao (Academia Sinica)
  -	Tsung-Ju Lee (National Cheng Kung University)
  -	Chao-Ming Lin (Ohio State University)
@@ -58,7 +60,6 @@ Singularity appears in numerous branches of mathematics and physics; it provides
 
 *Online
 
-+TBC
 
 
 -------
