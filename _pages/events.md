@@ -24,7 +24,7 @@ Singularity appears in numerous branches of mathematics and physics; it provides
 
 ###### **Official website** [TIMS](https://www.tims.ntu.edu.tw/modules/news/article.php?storyid=3972)
 
-<image src="/../assets/img/2024_TIMS_QR_code_registration.png" alt="QR-code" width="50%" height="50%">
+<image src="../assets/img/2024_TIMS_QR_code_registration.png" alt="QR-code" width="50%" height="50%">
 
 -------
 
