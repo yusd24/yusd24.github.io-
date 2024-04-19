@@ -24,6 +24,8 @@ Singularity appears in numerous branches of mathematics and physics; it provides
 
 ###### **Official website** [TIMS](https://www.tims.ntu.edu.tw/modules/news/article.php?storyid=3972)
 
+![image](assets/img/2024_TIMS_QR_code_registration.png)
+
 -------
 
 #### **Summer School**
@@ -59,8 +61,6 @@ Singularity appears in numerous branches of mathematics and physics; it provides
  -	Sz-Sheng Wang (Academia Sinica)
 
 *Online
-
-
 
 -------
 
