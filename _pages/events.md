@@ -28,7 +28,7 @@ Singularity appears in numerous branches of mathematics and physics; it provides
 
 Please scan the QR code below for registration.
 
-<image src="../assets/img/2024_TIMS_QR_code_registration.png" alt="QR-code" width="15%" height="15%">
+<image src="../assets/img/2024_TIMS_QR_code_registration.png" alt="QR-code" width="15%" height="15%" />
 
 
 
