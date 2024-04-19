@@ -22,13 +22,15 @@ Singularity appears in numerous branches of mathematics and physics; it provides
 ###### **Sponsor**
  - Taida Institute for Mathematical Sciences (TIMS)
 
-###### **Official website** [TIMS](https://www.tims.ntu.edu.tw/modules/news/article.php?storyid=3972)
-
 ###### **Registration** 
 
 Please scan the QR code below for registration.
 
 <image src="../assets/img/2024_TIMS_QR_code_registration.png" alt="QR-code" width="15%" height="15%" />
+
+###### **Official website** [TIMS](https://www.tims.ntu.edu.tw/modules/news/article.php?storyid=3972)
+
+
 
 
 
