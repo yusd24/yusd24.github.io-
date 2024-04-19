@@ -24,8 +24,8 @@ Singularity appears in numerous branches of mathematics and physics; it provides
 
 ###### **Registration** 
 
-Please scan the QR code below for registration. 
-Visit our official website [here](https://www.tims.ntu.edu.tw/modules/news/article.php?storyid=3972).
+Please click [here](https://forms.gle/tmJbEqASQ2LxEXVj6) or scan the QR code below for registration. 
+Visit our [official website](https://www.tims.ntu.edu.tw/modules/news/article.php?storyid=3972).
 
 <image src="../assets/img/2024_TIMS_QR_code_registration.png" alt="QR-code" width="15%" height="15%" />
 
