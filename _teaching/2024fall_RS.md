@@ -2,7 +2,7 @@
 layout: page
 title: Introduction to Riemann surfaces
 description: 黎曼面導論
-img: assets/img/12.jpg
+img: assets/img/9.jpg
 importance: 1
 category: Fall 2024
 ---
