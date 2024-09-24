@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Calculus (1) 
-description: 微積分一
+title: Linear Algebra (1) 
+description: 線性代數一
 img: assets/img/12.jpg
 importance: 1
-category: Fall 2023
+category: Fall 2024
 ---
 
 <p><b>授課教師</b>: 李宗儒 Tsung-Ju Lee
