@@ -2,7 +2,7 @@
 layout: page
 title: Linear Algebra (1) 
 description: 線性代數一
-img: assets/img/12.jpg
+img: assets/img/2.jpg
 importance: 1
 category: Fall 2024
 ---
