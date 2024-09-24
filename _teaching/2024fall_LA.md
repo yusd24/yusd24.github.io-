@@ -78,48 +78,48 @@ category: Fall 2024
   </tr>
   <tr>
     <td> 11/6, 11/8 </td>
-    <td> 4.9, 5.1, 5.2 </td>
-    <td> Antiderivatives; areas and distances; the definite integral.</td>
+    <td> 4.2 </td>
+    <td> Determinants; midterm.</td>
   </tr>
   <tr>
     <td> 11/13, 11/15 </td>
-    <td> 5.3 - 5.4 </td>
-    <td> The fundamental theorem of Calculus; indefinite integrals and the net change theorem.</td>
+    <td> 4.2 - 4.3 </td>
+    <td> Determinants and the computation of determinants.</td>
   </tr>
   <tr>
-    <td> 11/20 (Midterm), 11/22 (停課)</td>
-    <td> </td>
-    <td> </td>
+    <td> 11/20, 11/22 </td>
+    <td> 4.3 - 4.4 </td>
+    <td> Determinants and multilinear maps.</td>
   </tr>
   <tr>
     <td> 11/27, 11/29 </td>
-    <td> 5.5, 7.1</td>
-    <td> Substitution; integration by parts.</td>
+    <td> 5.1 </td>
+    <td> Eigenvalues and eigenvectors.</td>
   </tr>
   <tr>
     <td> 12/4, 12/6 </td>
-    <td> 7.2 - 7.4 </td>
-    <td> trigonometric integrals; trigonometric substitution; integration of rational functions by partial fractions.</td>
+    <td> 5.2 </td>
+    <td> Diagonalizability.</td>
   </tr>
   <tr>
     <td> 12/11, 12/13 </td>
-    <td> 6.1 - 6.2, <br> 8.1 - 8.2 </td>
-    <td> Applications of integrations: areas, volumes.</td>
+    <td>  </td>
+    <td> Invariant subspaces; Cayley--Hamilton theorem.</td>
   </tr>
   <tr>
     <td> 12/18, 12/20 </td>
-    <td> 6.3, 7.8, 9.1 </td>
-    <td> Arc length, area of a surface of revolution; improper integrals; ＊Laplace transform.</td>
+    <td> </td>
+    <td> Simultaneously diagonalizable; upper-triangularization.</td>
   </tr>
   <tr>
     <td> 12/25, 12/27 </td>
-    <td> 9.3, 9.5 </td>
-    <td> Modeling with differential equations; separable equations; linear equations; ＊second-order differential equations; ＊solving differential equations by Laplace transform.</td>
+    <td> </td>
+    <td> Matrix limits and Markov chains.</td>
   </tr>
   <tr>
     <td> 1/1 (停課), <br> 1/3 (Final) </td>
     <td> </td>
-    <td> </td>
+    <td> Final Exam.</td>
   </tr>
 
 </table>
