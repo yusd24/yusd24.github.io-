@@ -37,49 +37,44 @@ category: Fall 2024
     <th style="width:60%"><center> 預定進度 (＊表示額外補充) </center></th>
   </tr>
   <tr>
-    <td>9/4, 9/6</td> 
-    <td>1.1 - 1.3</td>
-    <td>Introduction; functions, trigonometric functions.</td>
+    <td>9/11, 9/13</td> 
+    <td>1.4 & 3.4</td>
+    <td>Sets and funtions;systems of linear equations.</td>
   </tr> 
   <tr>
-    <td> 9/11, 9/13</td>
-    <td> 1.4 - 1.5, <br> 2.2, 2.4 </td>
-    <td> Exponential functions; inverse functions; logarithmic functions; limits of a function; the precise definition of a limit. </td>
-  </tr>
-  <tr>
     <td> 9/18, 9/20</td>
-    <td> 2.3, 2.5 </td>
-    <td> Evaluate limits using the limit laws; continuity.</td>
+    <td> 1.3 - 1.6 </td>
+    <td> Vector spaces; bases; dimension.</td>
   </tr>
   <tr>
     <td> 9/25, 9/27</td>
-    <td> 2.6 - 2.8, 3.1</td>
-    <td> limits at Infinity; horizontal asymptotes; derivatives and rates of change; derivative as a function; derivatives of polynomials and exponential functions.</td>
+    <td> 2.1 & 2.4</td>
+    <td> Linear transformations; isomorphisms; quotient spaces; dimension theorem.</td>
   </tr>
   <tr>
     <td> 10/2, 10/4</td>
-    <td> 3.2 - 3.4 </td>
-    <td> The product and quotient rules; derivatives of trigonometric functions; the chain rule.</td>
+    <td> 2.2 - 2.4 </td>
+    <td> Matrix representation; invertibility.</td>
   </tr>
   <tr>
-    <td> 10/9 (停課), 10/11</td>
-    <td> 3.5 </td>
-    <td> Implicit differentiation.</td>
+    <td> 10/9, 10/11</td>
+    <td> 2.5 - 2.6 </td>
+    <td> Change of coordinate matrices; dual spaces.</td>
   </tr>
   <tr>
     <td> 10/16, 10/18</td>
-    <td> 3.6, 4.1 </td>
-    <td> Derivatives of logarithmic functions; inverse trigonometric functions and their derivatives; maximum and minimum values.</td>
+    <td> 3.1 - 3.2 </td>
+    <td> Elementary matrices; the rank of a matrix.</td>
   </tr>
   <tr>
     <td> 10/23, 10/25</td>
-    <td> 4.2, 4.4 </td>
-    <td> The mean value theorem; indeterminate forms and l'Hospital's rule.</td>
+    <td> 3.3 - 3.4 </td>
+    <td> Systems of linear equations (review).</td>
   </tr>
   <tr>
-    <td> 10/30, <br> 11/1 (停課)</td>
-    <td> 4.3, 4.5</td>
-    <td> How derivatives affect the shape of a graph; summary of curve sketching.</td>
+    <td> 10/30, 11/1</td>
+    <td> 2.7 & 4.1</td>
+    <td> Homogeneous linear differential equations; determinants.</td>
   </tr>
   <tr>
     <td> 11/6, 11/8 </td>
