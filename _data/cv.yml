@@ -53,61 +53,7 @@
       year: 2018.2 - 2018.8
       description:
 
-- title: Academic Activities
-  type: list
-  contents:
-    - category: Seminars Organized
-      items:
-      - name: <p><i>Algebraic Geometry in String Theory seminar</i>&emsp;<br> (coorganized w. Charles Doran and Mauricio Romo)&emsp;</p>
-        school: Harvard CMSA
-        time:  2022.9 - 2023.6
-        link: https://cmsa.fas.harvard.edu/event_category/algebraic-geometry-in-string-theory/
-        linkname: CLICK
-      - name: <p><i>Algebraic Geometry in String Theory seminar</i>&emsp;<br> (coorganized w. Yun Shi)&emsp;</p>
-        school: Harvard CMSA
-        time: 2021.9 - 2022.6
-        link: https://cmsa.fas.harvard.edu/event_category/algebraic-geometry-in-string-theory/
-        linkname: CLICK
-      - name: <p><i>Mathematical Physics seminar</i>&emsp;<br> (coorganized w. Yoosik Kim and Yang Zhou)&emsp;</p>
-        school: Harvard CMSA
-        time: 2020.9 - 2021.6
-      - name: <p><i>Geometry and Physics seminar</i>&emsp;<br> (coorganized w. Yoosik Kim and Du Pei)&emsp;</p>
-        school: Harvard CMSA
-        time: 2020.6 - 2020.8
-    - category: Conferences/Workshops Organized
-      items:
-      - name: <p><i>Representation Theory, Calabi–Yau Manifolds, and Mirror Symmetry</i>&emsp;<br> (coorganized w. An Huang, Siu-Cheong Lau, and Andrew Linshaw)&emsp;</p>
-        school: Harvard CMSA
-        time: 2022.11.28 - 2022.12.1
-        link: https://cmsa.fas.harvard.edu/event/representation-theory-calabi-yau-manifolds-and-mirror-symmetry/
-        linkname: CLICK
-    - category: Invited Talks (selected)
-      items:
-        - name: <p>On periods of Calabi--Yau fractional complete intersections;<br> in <i>Mirror Symmetry and Related Topics</i>&emsp;</p>
-          school: Korea Institute for Advanced Study
-          time: 2024/1
-          link: http://events.kias.re.kr/h/msrt24/?pageNo=5317
-          linkname: CLICK
-        - name: <p>d-dbar lemma for certain non-Kahler CY threefolds;<br> in <i>East Asian Symplectic Conference 2023</i>&emsp;</p>
-          school: Jeju
-          time: 2023/10
-          link: https://sites.google.com/view/2023-easc/home
-          linkname: CLICK
-        - name: <p>On the solutions to GKZ D-modules with fractional parameters&emsp;<br> in <i>Calabi--Yau manifolds and mirror symmetry - Past, Present, and Future -</i>&emsp;</p>
-          school: Gakushuin University
-          time: 2022/8
-          link: https://sites.google.com/view/cyms2022/home?authuser=0
-          linkname: CLICK
-        - name: <p>Mirror duality between Calabi–Yau fractional complete intersections&emsp;<br> in <i>Simons Collaboration on HMS Annual Meeting 2021</i>&emsp;</p>
-          school: Simons Foundation
-          time: 2021/11
-          link: https://www.simonsfoundation.org/event/simons-collaboration-on-homological-mirror-symmetry-annual-meeting-2021/
-          linkname: CLICK
-        - name: <p>Mirror duality and fractional complete intersection Calabi–Yau spaces&emsp;<br> in <i>2020 ICCM Annual meeting</i>&emsp;</p>
-          school: USTC
-          time: 2020/12
-          link: 
-          linkname: 
+
 
   
     
